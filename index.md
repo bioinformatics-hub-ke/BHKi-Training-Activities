@@ -2,15 +2,11 @@
 
 The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promotes open source bioinformatics software development and open science in the biological research community. 
 
-The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) in partnership with OBF organises a three day hybrid (in-person and virtual) event, scheduled in June 14 - 16 2022. 
+The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) in partnership with OBF organises a three day hybrid (in-person and virtual) seminar series event, scheduled in June 14 - 16 2022. 
 
-### Event: 
+### BHKi Seminars: Bioinformatics, software engineering and Data Management
 
-The goal of this event is to create and opportunity to expose or introduce our community to open science, bioinformatics and software research. 
-
-_more details added_
-
-
+The goal of this seminar series  is to create an opportunity to expose or introduce our community to open science, bioinformatics and software research. Enhancing networking and collaboration among our diverse community and other communities. 
 
 Below is a three-day program of the hybrid event
 
