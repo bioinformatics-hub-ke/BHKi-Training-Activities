@@ -2,14 +2,14 @@ The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) is organiz
 
 ### BHKi Seminars: Bioinformatics, software engineering and Data Management
 
-The goal of this seminar series  is to create an opportunity to expose or introduce our community to open science, bioinformatics and software research. The event will enhancing networking and collaboration among our diverse community and other communities. 
+The goal of this seminar series  is to create an opportunity to expose or introduce our community to open science, bioinformatics and software research. The event will enhance networking and collaboration among our diverse community and other communities. Our target audience is intermediately skilled researchers who are working on their projects and need guidance on how to go about their research, making use of bioinformatics, open science and software research skills. 
 
-Below is a three-day program of the hybrid event
+Below is a three-day program of the hybrid event.
 
 **Day 1 :** Project Planning and Data Managment
-Talks about coming up with a project plan from writing to analysis to communication, and “how” to stick to the plan, or how to deal with changes to the plan. How to practice data management practices for our projects. Understanding the data type and appropriate tools to use. Data organization and clean up - involving how to name your files and preprocessing your data in a reproducible way. 
+The introdction will comprise of talks about project planning, with a look into coming up with a project plan from conceptualization to analysis to communication, and a guide on “how” to stick to the plan, or how to deal with changes to the plan. A second talk on data management practices for projects, understanding the data types and appropriate tools to use, data organization and clean up - involving how to name your files and preprocessing your data in a reproducible way.  
 
-Afternoon practical sessions for available tools to plan your project (or templates) e.g. Github projects, agile and data management methods and a practical session on available tools for data organization and clean up involving how to name your files, preprocessing your data in a reproducible wa
+The afternoon practical sessions will introduce available open source project planning tools (or templates) e.g. Github projects, and agile. This will be followed by data management methods and a practical session on available tools for data management.
 
 
 | **Talk** | **Speaker** |
@@ -24,7 +24,7 @@ Afternoon practical sessions for available tools to plan your project (or templa
 
 
 **Day 2 :**  Omics - Genomics, Proteomics, Transcriptomics and metabolomics groups 
-Participants will be grouped into four major omics topics covered in different rooms physically or breakout rooms online. These four topics are genomic, proteomics, Transcriptomics and metabolomics. These groups are based on participants' interests. The goal is to introduce participants to these fields, understand what are major analyses in bioinformatics, and how to present results in sort of a seminar series. This will happen concurrently in the four groups. Three seminars will be offered this day, for example, in the genomics room/break out room: a talk on plant genomics, animal genomics and aquatic genomics will be presented to target a wider audience and not be biased followed by an open dialogue on the currents trends in geneomics for example. 
+Participants will be grouped into four major omics topics covered in different rooms physically and breakout rooms virtually. These four topics i.e genomic, proteomics, transcriptomics and metabolomics, overlap with participants' interests and projects. The goal is to introduce participants to these fields, train on major bioinformatics analyses, and presentation of results to different audiences in a parallel manner. Three seminars will be offered this day, for example, in the genomics room/breakout room: a talk on plant genomics, animal genomics and aquatic genomics will be presented to target a diverse audience, followed by an open dialogue on a topic such as the currents trends in genomics and its applications. 
 Afternoon sessions: All participants will be introduced to reporting scientific findings - how to write a manuscript and publishing in open journals, communicating your science through presentation - talks, poster presentations, speed talks etc
 
 
@@ -41,7 +41,7 @@ Afternoon sessions: All participants will be introduced to reporting scientific 
 
 
 **Day 3:** Research software 
-Research software engineering talks will expose or create an opportunity to enlighten our community on the career path. This field is untapped in our community, with minimal exposure to research software skills and FAIR principles on software research. The ultimate goal is to create a space for start-up collaborations with established software research groups within our community. Also, the already existing software engineers within our community grow and expand their networks through these talks and open dialogues.
+Research software engineering talks will be held to expose or to enlighten our community on this career path. This field is rarely talked about in our community, with minimal exposure to research software skills and FAIR principles on software research. The ultimate goal is to create a space for collaborations with skilled research software individuals/groups within our community. This will lead to the growth of existing research software engineers within our community and expanding their networks through these kind of events.
 
 | **Talk** | **Speaker** |
 |:---------------------- | :------------------------------------- |
