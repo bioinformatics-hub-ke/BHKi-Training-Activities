@@ -9,7 +9,7 @@ Below is a three-day program of the hybrid event
 **Day 1 :** Project Planning and Data Managment
 Talks about coming up with a project plan from writing to analysis to communication, and “how” to stick to the plan, or how to deal with changes to the plan. How to practice data management practices for our projects. Understanding the data type and appropriate tools to use. Data organization and clean up - involving how to name your files and preprocessing your data in a reproducible way. 
 
-Afternoon practical sessions for available tools to plan your project (or templates) e.g. Github projects, agile and data management methods 
+Afternoon practical sessions for available tools to plan your project (or templates) e.g. Github projects, agile and data management methods and a practical session on available tools for data organization and clean up involving how to name your files, preprocessing your data in a reproducible wa
 
 
 | **Talk** | **Speaker** |
@@ -19,7 +19,8 @@ Afternoon practical sessions for available tools to plan your project (or templa
 |Data Management planning | Speaker TBC|
 |FAIR data| Speker TBC|
 |Lunch Break|
-|Practical sessions 1 – available tools to plan your project e.g. GitHub, agile etc <br/> Practical sessions 2 – available tools for data organization and clean up involving how to name your files, preprocessing your data in a reproducible way|
+|Practical sessions 1|
+|Practical sessions 2 |
 
 
 **Day 2 :**  Omics - Genomics, Proteomics, Transcriptomics and metabolomics groups 
