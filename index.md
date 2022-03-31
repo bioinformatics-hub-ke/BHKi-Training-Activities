@@ -1,3 +1,9 @@
+---
+layout: BHKi
+
+---
+
+
 ## Welcome to Bioinformatics Hub of Kenya Intiative Open Bioinformatics Fund (OBF) event 
 
 The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promotes open source bioinformatics software development and open science in the biological research community. 
