@@ -1,4 +1,4 @@
-The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) in partnership with OBF organises a three day hybrid (in-person and virtual) seminar series event, scheduled in June 14 - 16 2022. 
+The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) is organizing a three day hybrid (in-person and virtual) seminar series event, scheduled in June 14 - 16 2022. 
 
 ### BHKi Seminars: Bioinformatics, software engineering and Data Management
 
