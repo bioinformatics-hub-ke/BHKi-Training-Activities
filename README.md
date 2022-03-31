@@ -1,3 +1,3 @@
-# Open Bioinformatics Fund (OBF) Hybrid Event
+# Bioinformatics Hub of Kenya Intiative Training activities 
 
 
