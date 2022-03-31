@@ -1,2 +1,2 @@
-# OBF-Event22
-OBFevent
+# Open Bioinformatics Fund (OBF) Hybrid Event
+
