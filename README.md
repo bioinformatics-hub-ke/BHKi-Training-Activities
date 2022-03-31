@@ -1,3 +1,3 @@
-# Bioinformatics Hub of Kenya Intiative Training activities 
+# Bioinformatics Hub of Kenya Intiative Training Activities 
 
 
