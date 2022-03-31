@@ -3,7 +3,7 @@
 The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promotes open source bioinformatics software development and open science in the biological research community. 
 The OBF Event Fellowship program is aimed at increasing diverse participation at events promoting open science practices such as open source software and resource development in the bioinformatics and biological research community.
 
-The Bioinformatics Hub of Kenya Intiative (BHKi)(https://bhki.org/) in partnership with OBF organises a three day hybrid (in-person and virtual) event, scheduled in June 14 - 16 2022. 
+The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/) in partnership with OBF organises a three day hybrid (in-person and virtual) event, scheduled in June 14 - 16 2022. 
 
 
 ### Bioinformatics research journey condensed: Ideation to completion
@@ -11,7 +11,6 @@ The Bioinformatics Hub of Kenya Intiative (BHKi)(https://bhki.org/) in partnersh
 The goal of this event is to create and opportunity to expose or introduce our community to open science, bioinformatics and software research. 
 
 _more details added_
-
 
 
 
