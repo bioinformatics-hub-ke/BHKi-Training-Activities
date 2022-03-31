@@ -41,7 +41,7 @@ Afternoon sessions: All participants will be introduced to reporting scientific 
 
 
 **Day 3:** Research software 
-Research software engineering talks will be held to expose or to enlighten our community on this career path. This field is untapped in our community, with minimal exposure to research software skills and FAIR principles on software research. The ultimate goal is to create a space for start-up collaborations with established software research groups within our community. Also, the already existing software engineers within our community grow and expand their networks through these talks and open dialogues.
+Research software engineering talks will be held to expose or to enlighten our community on this career path. This field is rarely talked about in our community, with minimal exposure to research software skills and FAIR principles on software research. The ultimate goal is to create a space for collaborations with skilled research software individuals/groups within our community. This will lead to the growth of existing research software engineers within our community and expanding their networks through these kind of events.
 
 | **Talk** | **Speaker** |
 |:---------------------- | :------------------------------------- |
