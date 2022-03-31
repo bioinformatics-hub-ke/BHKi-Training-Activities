@@ -6,7 +6,7 @@ The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) in partner
 
 ### BHKi Seminars: Bioinformatics, software engineering and Data Management
 
-The goal of this seminar series  is to create an opportunity to expose or introduce our community to open science, bioinformatics and software research. Enhancing networking and collaboration among our diverse community and other communities. 
+The goal of this seminar series  is to create an opportunity to expose or introduce our community to open science, bioinformatics and software research. The event will enhancing networking and collaboration among our diverse community and other communities. 
 
 Below is a three-day program of the hybrid event
 
