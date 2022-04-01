@@ -8,7 +8,7 @@ Below is a three-day program of the hybrid event.
 
 **Day 1 : Project Planning and Data Managment.**
 <br/>
-The goal of Day 1 will comprise of talks about project planning, with a look into coming up with a project plan from conceptualization, analysis, communication and data management.
+The goal of Day 1 will comprise of talks about project planning, with a look into coming up with a project plan from conceptualization, analysis, communication and data management. <br/>
 The afternoon practical sessions will introduce available open source project planning tools (or templates) e.g. Github projects, and agile. This will be followed by data management methods and a practical session on available tools for data management.
 
 
@@ -25,7 +25,7 @@ The afternoon practical sessions will introduce available open source project pl
 
 **Day 2 : Omics - Genomics, Proteomics, Transcriptomics and metabolomics.**
 <br/>
-The goal of Day 2 is to introduce participants to four main omic field namely: genomic, proteomics, transcriptomics and metabolomics in accordance to participants interest through seminars and open dialogues. 
+The goal of Day 2 is to introduce participants to four main omic field namely: genomic, proteomics, transcriptomics and metabolomics in accordance to participants interest through seminars and open dialogues.<br/>
 Afternoon sessions: All participants will be introduced to reporting scientific findings - how to write a manuscript and publishing in open journals, communicating your science through presentation - talks, poster presentations, speed talks etc
 
 
