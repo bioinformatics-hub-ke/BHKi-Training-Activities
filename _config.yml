@@ -1,17 +1,3 @@
 theme: jekyll-theme-slate
 title: Bioinformatics Hub of Kenya Intiative Seminar Series
 description: Empowering our community with Bioinformatics, Data Management and Research Software Development Skills  
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bioinfohub_ke"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bioinformatics-hub-ke/BOSS22"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bioinformaticshubofkenya@gmail.com"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-square"
-      url: "https://www.youtube.com/channel/UCWvCsVW7BF3Nml5VpLOdU5g"
